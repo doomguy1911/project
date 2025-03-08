@@ -1,3 +1,6 @@
+main
+<?php
+echo "hola!";
 <?php
 // solicitar el nombre del usuario
 echo "hola, cuál es tu nombre?\n";
@@ -13,4 +16,5 @@ $edad = $año_actual - $año_nacimiento;
 
 // Mostrar el resultado
 echo "tienes aproximadamente $edad años.\n";
+nueva-funcionalidad
 ?>
