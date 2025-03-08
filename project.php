@@ -1,4 +1,7 @@
 <?php
+
+echo "hola! bienvenid@ a mi proyecto en el repositorio"
+
 // solicitar el nombre del usuario
 echo "hola, cuál es tu nombre?\n";
 $nombre = trim(fgets(STDIN));
